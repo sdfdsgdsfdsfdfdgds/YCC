@@ -1,0 +1,6 @@
+{
+  "name": "Yadav Coaching Classes",
+  "description": "Educational app for Yadav Coaching Classes featuring math tables 1-30, English vocabulary, GK quizzes, and student progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
